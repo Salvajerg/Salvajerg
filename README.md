@@ -1,15 +1,3 @@
-<!doctype html>
-<html lang="es">
-<head>
-<meta charset="utf-8">
-<title>CV Europass — Salvador Ruiz García</title>
-<style>
-body{font-family:Arial, sans-serif; max-width:900px; margin:40px auto; line-height:1.6; color:#222;}
-h1{color:#0d6efd;}
-.section-title{color:#0d6efd; border-bottom:1px solid #ccc; padding-bottom:4px; margin-top:32px;}
-.label{font-weight:bold; display:inline-block; width:180px; vertical-align:top;}
-</style>
-</head>
 <body>
 
 <h1>Currículum Europass — Salvador Ruiz García</h1>
